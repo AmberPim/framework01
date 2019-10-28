@@ -1,0 +1,63 @@
+.home-image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#home-header
+ {
+     text-align:center;
+     font-family: 'Roboto Mono', monospace;
+ }
+
+#album-header
+{
+    text-align:center;
+    font-family: 'Roboto Mono', monospace;
+    margin-bottom:5%;
+}
+
+p
+{
+    font-size:14px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h2
+ {
+     text-align:center;
+     font-family: 'Roboto Mono', monospace;
+ }
+
+footer
+{
+    height:50px;
+    width:100%;
+    background-color:black;
+    margin-top:2%;
+}
+
+.albumCover
+{
+width:80%;
+}
+
+.albumbutt
+ {
+     width:80%;
+     background-color:black;
+     color:white;
+ }
+
+.album-image
+{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:5%;
+    width:50%;
+    border:solid 5px black;
+
+}
